@@ -1,2 +1,2 @@
 # coding-tasks
-I have created a repo to keep a track of coding tasks ranging from machine learning & data science to web development where my expertise lies
+I have created a repo to keep a track of coding tasks ranging from web development to machine learning & data science where my expertise lies
